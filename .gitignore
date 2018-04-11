@@ -1,6 +1,10 @@
 
+<<<<<<< HEAD
 collections/\.classpath
 
 collections/\.project
 
 collections/\.settings/
+=======
+*.class
+>>>>>>> 68d7b75e51b4a5e2eb35451032a439028ee683fa
