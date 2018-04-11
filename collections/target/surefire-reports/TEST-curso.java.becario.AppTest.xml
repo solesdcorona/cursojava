@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<<<<<<< HEAD
 <testsuite tests="1" failures="0" name="curso.java.becario.AppTest" time="0.033" errors="0" skipped="0">
+=======
+<testsuite tests="1" failures="0" name="curso.java.becario.AppTest" time="0.014" errors="0" skipped="0">
+>>>>>>> 1e076944df3492c6da9326a774e115338f57e219
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_161\jre\bin"/>
@@ -16,7 +20,11 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="Service Pack 1"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+<<<<<<< HEAD
     <property name="user.dir" value="C:\Users\JAVA12\Documents\GitKraken\cursojava\collections"/>
+=======
+    <property name="user.dir" value="C:\Users\JAVA12\Documents\CursoJava\cursojava\collections"/>
+>>>>>>> 1e076944df3492c6da9326a774e115338f57e219
     <property name="java.runtime.version" value="1.8.0_161-b12"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_161\jre\lib\endorsed"/>
@@ -63,5 +71,9 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
+<<<<<<< HEAD
   <testcase classname="curso.java.becario.AppTest" name="testApp" time="0.002"/>
+=======
+  <testcase classname="curso.java.becario.AppTest" name="testApp" time="0.001"/>
+>>>>>>> 1e076944df3492c6da9326a774e115338f57e219
 </testsuite>
