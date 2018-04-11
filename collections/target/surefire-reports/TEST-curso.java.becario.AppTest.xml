@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<<<<<<< HEAD
 <testsuite tests="1" failures="0" name="curso.java.becario.AppTest" time="0.021" errors="0" skipped="0">
+=======
+<<<<<<< HEAD
+<testsuite tests="1" failures="0" name="curso.java.becario.AppTest" time="0.033" errors="0" skipped="0">
+=======
+<testsuite tests="1" failures="0" name="curso.java.becario.AppTest" time="0.014" errors="0" skipped="0">
+>>>>>>> 1e076944df3492c6da9326a774e115338f57e219
+>>>>>>> cbb6fcc845c9d82676ae98d6a9719f31ee5a4259
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_161\jre\bin"/>
     <property name="java.vm.version" value="25.161-b12"/>
+<<<<<<< HEAD
+=======
+    <property name="user.country.format" value="MX"/>
+>>>>>>> cbb6fcc845c9d82676ae98d6a9719f31ee5a4259
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
@@ -15,12 +27,24 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="Service Pack 1"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+<<<<<<< HEAD
     <property name="user.dir" value="C:\Users\JAVA1\Documents\GitHub\cursojava\collections"/>
+=======
+<<<<<<< HEAD
+    <property name="user.dir" value="C:\Users\JAVA12\Documents\GitKraken\cursojava\collections"/>
+=======
+    <property name="user.dir" value="C:\Users\JAVA12\Documents\CursoJava\cursojava\collections"/>
+>>>>>>> 1e076944df3492c6da9326a774e115338f57e219
+>>>>>>> cbb6fcc845c9d82676ae98d6a9719f31ee5a4259
     <property name="java.runtime.version" value="1.8.0_161-b12"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_161\jre\lib\endorsed"/>
     <property name="os.arch" value="amd64"/>
+<<<<<<< HEAD
     <property name="java.io.tmpdir" value="C:\Users\JAVA1\AppData\Local\Temp\"/>
+=======
+    <property name="java.io.tmpdir" value="C:\Users\JAVA12\AppData\Local\Temp\"/>
+>>>>>>> cbb6fcc845c9d82676ae98d6a9719f31ee5a4259
     <property name="line.separator" value="
 "/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
@@ -29,24 +53,41 @@
     <property name="maven.ext.class.path" value="C:\Program Files\NetBeans 8.1\java\maven-nblib\netbeans-eventspy.jar"/>
     <property name="classworlds.conf" value="C:\Program Files\NetBeans 8.1\java\maven\bin\m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
+<<<<<<< HEAD
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_161\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files\Common Files\Lenovo;C:\Program Files (x86)\Common Files\Ulead Systems\MPEG;C:\Program Files (x86)\Windows Live\Shared;C:\SWTOOLS\ReadyApps;C:\Program Files (x86)\Symantec\VIP Access Client\;C:\Program Files (x86)\Common Files\Lenovo;C:\Program Files\nodejs\;C:\liquibase-3.5.5-bin;C:\Program Files\Git\cmd;C:\Users\JAVA1\AppData\Roaming\npm;C:\Program Files\Microsoft VS Code\bin;."/>
+=======
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_161\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Kaspersky Lab\Kaspersky Endpoint Security 10 para Windows\;C:\Program Files\nodejs\;C:\liquibase-3.5.5-bin;C:\Program Files\Git\cmd;C:\Users\JAVA12\AppData\Roaming\npm;C:\Program Files\Microsoft VS Code\bin;."/>
+>>>>>>> cbb6fcc845c9d82676ae98d6a9719f31ee5a4259
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="os.version" value="6.1"/>
+<<<<<<< HEAD
     <property name="user.home" value="C:\Users\JAVA1"/>
+=======
+    <property name="user.home" value="C:\Users\JAVA12"/>
+>>>>>>> cbb6fcc845c9d82676ae98d6a9719f31ee5a4259
     <property name="user.timezone" value="America/Mexico_City"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="java.specification.version" value="1.8"/>
     <property name="file.encoding" value="Cp1252"/>
+<<<<<<< HEAD
     <property name="user.name" value="JAVA1"/>
+=======
+    <property name="user.name" value="JAVA12"/>
+>>>>>>> cbb6fcc845c9d82676ae98d6a9719f31ee5a4259
     <property name="java.class.path" value="C:\Program Files\NetBeans 8.1\java\maven\boot\plexus-classworlds-2.4.jar"/>
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_161\jre"/>
     <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -Dmaven.ext.class.path=C:\Program Files\NetBeans 8.1\java\maven-nblib\netbeans-eventspy.jar clean install"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
+<<<<<<< HEAD
     <property name="user.language" value="es"/>
+=======
+    <property name="user.language" value="en"/>
+    <property name="user.language.format" value="es"/>
+>>>>>>> cbb6fcc845c9d82676ae98d6a9719f31ee5a4259
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="java.version" value="1.8.0_161"/>
@@ -61,5 +102,13 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
+<<<<<<< HEAD
   <testcase classname="curso.java.becario.AppTest" name="testApp" time="0.002"/>
+=======
+<<<<<<< HEAD
+  <testcase classname="curso.java.becario.AppTest" name="testApp" time="0.002"/>
+=======
+  <testcase classname="curso.java.becario.AppTest" name="testApp" time="0.001"/>
+>>>>>>> 1e076944df3492c6da9326a774e115338f57e219
+>>>>>>> cbb6fcc845c9d82676ae98d6a9719f31ee5a4259
 </testsuite>

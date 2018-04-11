@@ -1,4 +1,12 @@
 -------------------------------------------------------------------------------
 Test set: curso.java.becario.AppTest
 -------------------------------------------------------------------------------
+<<<<<<< HEAD
 Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.024 sec
+=======
+<<<<<<< HEAD
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.036 sec
+=======
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.015 sec
+>>>>>>> 1e076944df3492c6da9326a774e115338f57e219
+>>>>>>> cbb6fcc845c9d82676ae98d6a9719f31ee5a4259
