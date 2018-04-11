@@ -23,7 +23,9 @@ public class EjemploPolimorfismo {
         System.out.println(loAnimal2.getNumeroPatas());
         System.out.println(loAnimal2.getTamanio());
         System.out.println(loAnimal2.isViviparo());
-         
+        
+       
+        
     }
 
 }

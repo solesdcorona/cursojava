@@ -4,8 +4,8 @@ import curso.java.becario.luisromero.encapsulamiento.Animal;
 
 public class Lagarto extends Animal {
 
-    private boolean venenoso;
-    private boolean acuatico;
+    protected boolean venenoso;
+    protected boolean acuatico;
 
     public Lagarto(String tamanio, int numeroPatas, String color, boolean viviparo, boolean venenoso, boolean acuatico) {
         super(tamanio, numeroPatas, color, viviparo); //constructor de la clase padre que sera llamada primero a traves de la palabra super
